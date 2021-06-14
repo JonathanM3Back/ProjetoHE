@@ -1,0 +1,36 @@
+mat-card{
+  position: absolute;
+  display: block;
+  height: 400px;
+  width: 600px;
+  text-align: center;
+  margin-top: 24vh;
+  margin-left: 65vh;
+  
+  
+  
+}
+h2{
+  margin-top: 8vh;
+}
+
+.full-width{
+  width: 80%;
+
+}
+.forgot-password{
+  padding-left: 0vh;
+}
+.email-input{
+  padding-top: 0vh;
+}
+.password-input{
+  padding: 0;
+}
+.jovi{
+  width: 80%;
+  height: 25%;
+  color: #ffffff;
+  font-style: bold;
+  background-color: #16bca8;
+}
