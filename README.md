@@ -5,5 +5,5 @@
 
 
 
-### Projeto em pause por tempo indeterminado
+### Projeto em pausa por tempo indeterminado
 
